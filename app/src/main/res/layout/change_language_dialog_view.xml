@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shape_shadow_rounded">
+
+    <RadioGroup
+        android:id="@+id/radio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:padding="20dp"
+        android:background="@drawable/rounded_rect_white_fill"
+        android:layout_centerInParent="true"
+        android:textColor="@drawable/selector_radio_item" >
+
+        <RadioButton
+            android:id="@+id/english"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/eng"/>
+
+        <RadioButton
+            android:id="@+id/arabic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/arb"
+            android:textColor="@drawable/selector_radio_item" />
+
+        <RadioButton
+            android:id="@+id/french"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/frn"
+            android:textColor="@drawable/selector_radio_item" />
+
+        <RadioButton
+            android:id="@+id/russian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rus"
+            android:textColor="@drawable/selector_radio_item" />
+
+    </RadioGroup>
+</RelativeLayout>
+

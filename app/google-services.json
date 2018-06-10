@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "573701235625",
+    "firebase_url": "https://visitegypt-2b04f.firebaseio.com",
+    "project_id": "visitegypt-2b04f",
+    "storage_bucket": "visitegypt-2b04f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573701235625:android:32283368b4da5034",
+        "android_client_info": {
+          "package_name": "com.visit_egypt.visitegypt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573701235625-a35qk2iecbpcippsmcqvf6hd3p7cmfvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.visit_egypt.visitegypt",
+            "certificate_hash": "70d136ed6a4a7422742ef9b4f2c690189ab98781"
+          }
+        },
+        {
+          "client_id": "573701235625-8q28fa55et3ubt0r0h752oqp6d63f3q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANLPcgrslyocDL2oyorNEwa8TIXBY-tok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573701235625-8q28fa55et3ubt0r0h752oqp6d63f3q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

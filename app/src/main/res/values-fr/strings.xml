@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Visitez l\'Egypte</string>
+    <string name="slogan">Vous ne saurez jamais jusqu\'à ce que vous venez</string>
+
+    <string name="sendMail"> </string>
+
+    <string name="e_mail">E-mail</string>
+    <string name="phone_no">Phone Numbers</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="doNotHaveAnAccount">Don\'t have an account?</string>
+    <string name="register">REGISTER</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="forget_password">Forgot password</string>
+    <string name="submit">Submit</string>
+    <string name="full_name">Full name</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="please_check_your_e_mail">Please check your e-mail to confirm your account…</string>
+    <string name="events">Events</string>
+    <string name="news">Nouvelles</string>
+    <string name="count">(0)</string>
+    <string name="topics">Topics</string>
+    <string name="description">Description</string>
+    <string name="time">Time</string>
+    <string name="foods">Foods</string>
+    <string name="sponsors">Sponsers</string>
+    <string name="exhibits">Exhibits</string>
+    <string name="actions">Actions</string>
+    <string name="maker_details">Maker Details</string>
+    <string name="sponsor_details">Sponsor Details</string>
+    <string name="food_details">Food Details</string>
+    <string name="platinums">PLATINUM SPONSOR</string>
+    <string name="gold">GOLD SPONSOR</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="edit">Edit</string>
+    <string name="change_password">Change password</string>
+    <string name="new_password">New password</string>
+    <string name="save">Save</string>
+    <string name="profile">Profile</string>
+    <string name="registered">Registered successfully</string>
+    <string name="makers">Makers</string>
+    <string name="age">Age</string>
+    <string name="city">City</string>
+    <string name="en">En</string>
+    <string name="ar">ع</string>
+    <string name="fr">Fr</string>
+    <string name="ru">Ru</string>
+    <string name="eng">English</string>
+    <string name="arb">العربيه</string>
+    <string name="frn">French</string>
+    <string name="rus">Russian</string>
+
+    <string-array name="slideMenuItems">
+        <item>Nouvelles</item>
+        <item>Magazines tourisme</item>
+        <item>Diffusion en direct</item>
+        <item>À propos de nous</item>
+        <item>Contactez nous</item>
+    </string-array>
+
+    <!--<array name="slideMenuIcons">-->
+    <!--<item>@drawable/selector_home_icon</item>-->
+    <!--<item>@drawable/selector_switch_icon</item>-->
+    <!--<item>@drawable/selector_schedule_icon</item>-->
+    <!--<item>@drawable/selector_topics_icon</item>-->
+    <!--<item>@drawable/selector_maker_icon</item>-->
+    <!--<item>@drawable/selector_sponsor_icon</item>-->
+    <!--<item>@drawable/selector_food_icon</item>-->
+    <!--<item>@drawable/selector_favorite_icon</item>-->
+    <!--<item>@drawable/selector_info_icon</item>-->
+    <!--<item>@drawable/selector_notification_icon</item>-->
+    <!--<item>@drawable/selector_logout_icon</item>-->
+    <!--</array>-->
+
+</resources>
